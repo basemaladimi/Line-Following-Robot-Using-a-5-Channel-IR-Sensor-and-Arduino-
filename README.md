@@ -12,7 +12,7 @@ ________________________________________________________________________________
 
 - IR Sensors: 5-channel IR sensor array for line detection
 
-- 
+  
   <img src="https://github.com/user-attachments/assets/d3c258d3-7903-4b82-83ef-66a47aab9f0d" width="400" /> 
 
   
@@ -26,21 +26,21 @@ ________________________________________________________________________________
 
 - Motor Driver: Motor driver module for controlling motor direction and speed
 
-- 
+  
   <img src="https://github.com/user-attachments/assets/c2b1ff4b-e6cd-40c3-bafb-2dda9e3c291f" width="400" /> 
 
   
 
 - Microcontroller: Arduino for processing sensor inputs and controlling motors
 
-- 
+  
   <img src="https://github.com/user-attachments/assets/2b7229be-e506-4eb8-a8d4-5eaa45a35c8c" width="400" /> 
 
   
 
 - Power Supply: Battery pack or power source for powering the robot
 
-- 
+  
   <img src="https://github.com/user-attachments/assets/2e4c0865-3702-481a-8488-f19c2b83865c" width="400" /> 
 
   
