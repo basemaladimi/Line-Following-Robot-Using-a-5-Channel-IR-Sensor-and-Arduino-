@@ -63,5 +63,5 @@ ________________________________________________________________________________
 
 ## First Place Achievement
 
-![WhatsApp Image 2024-08-25 at 11 36 41 PM](https://github.com/user-attachments/assets/5589f97e-b49e-412a-9ea0-9585edb9da2d)
+![WhatsApp Image 2024-08-25 at 11 36 41 PM (1)](https://github.com/user-attachments/assets/9988d5d1-4dbb-4318-b2b7-a6e13beca8db)
 
