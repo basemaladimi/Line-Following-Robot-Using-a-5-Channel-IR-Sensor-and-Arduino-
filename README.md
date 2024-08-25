@@ -53,7 +53,9 @@ ________________________________________________________________________________
 ## Video
 
 
-<img src="https://github.com/user-attachments/assets/9988d5d1-4dbb-4318-b2b7-a6e13beca8db" alt="Description of the image" width="400" />
+
+https://github.com/user-attachments/assets/8950b8e1-1715-4c7f-b42a-05adf5cbf022
+
 
 
 
@@ -64,5 +66,6 @@ ________________________________________________________________________________
 
 ## First Place Achievement
 
-![WhatsApp Image 2024-08-25 at 11 36 41 PM (1)](https://github.com/user-attachments/assets/9988d5d1-4dbb-4318-b2b7-a6e13beca8db)
+<img src="https://github.com/user-attachments/assets/590e0962-3a32-4413-b3fa-b7eb13977289" alt="Description of the image" width="400" />   |   
+
 
