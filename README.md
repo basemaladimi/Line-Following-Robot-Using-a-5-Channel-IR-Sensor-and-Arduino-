@@ -53,7 +53,8 @@ ________________________________________________________________________________
 ## Video
 
 
-https://github.com/user-attachments/assets/e10b416f-0471-42c3-b285-3da025f7d30c
+https://github.com/user-attachments/assets/e10b416f-0471-42c3-b285-3da025f7d30c  /  ![WhatsApp Image 2024-08-25 at 11 36 41 PM](https://github.com/user-attachments/assets/e7d9338d-0c06-49cb-b940-80b2f0172759)
+
 
 
 
