@@ -68,6 +68,6 @@ ________________________________________________________________________________
 
 ## First Place Achievement
 
-<img src="https://github.com/user-attachments/assets/590e0962-3a32-4413-b3fa-b7eb13977289" alt="Description of the image" width="400" />   |   <img src="https://github.com/user-attachments/assets/0c053ba3-3ef8-47b4-ae2c-5b8dc4cda69b" alt="Description of the image" width="400" />
+<img src="https://github.com/user-attachments/assets/590e0962-3a32-4413-b3fa-b7eb13977289" alt="Description of the image" width="300" />   |   <img src="https://github.com/user-attachments/assets/0c053ba3-3ef8-47b4-ae2c-5b8dc4cda69b" alt="Description of the image" width="300" />
 
 
