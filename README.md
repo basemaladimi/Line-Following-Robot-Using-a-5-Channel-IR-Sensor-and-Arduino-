@@ -5,7 +5,7 @@ ________________________________________________________________________________
 
 - **Basem Alademi** (@basemaladimi)
 - **Nihad Hayyan** (@N-Hayani) 
-- **Mohammed Amin** (@)
+- **Mohammed Amin** (@super-amino)
 
 ________________________________________________________________________________________________
 ## Robot Parts and Components
