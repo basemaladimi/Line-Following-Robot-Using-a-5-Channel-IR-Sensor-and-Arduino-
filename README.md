@@ -3,9 +3,10 @@ In this project, we built a line-following robot using simple components like Ar
 ________________________________________________________________________________________________
 ## Contributors
 
-- **Basem Alademi** (@basemaladimi)
-- **Nihad Hayyan** (@N-Hayani) 
-- **Mohammed Amin** (@super-amino)
+- **Basem Alademi** [@basemaladimi](https://github.com/basemaladimi)
+- **NIHAD HAYANI** [@N-Hayani](https://github.com/N-Hayani)
+- **Mohammed Amin** [@super-amino](https://github.com/super-amino)
+
 
 ________________________________________________________________________________________________
 ## Robot Parts and Components
